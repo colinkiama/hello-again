@@ -1,4 +1,4 @@
-public class MyApp : Gtk.Application {
+public class MyApp : Gtk.application {
     public MyApp () {
         Object (
             application_id: "com.github.colinkiama.hello-again",
